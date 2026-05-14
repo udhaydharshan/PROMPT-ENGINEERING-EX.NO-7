@@ -1,7 +1,7 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date:14-5-2026
+# Register number: 212225230286
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
@@ -29,6 +29,7 @@ o Notify user of overlapping appointments or free time slots.
 3. Wellness Tips Generator:
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
+
 
 
 
